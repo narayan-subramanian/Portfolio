@@ -1,5 +1,5 @@
 # Hi there, I'm Narayan Subramanian 👋
-
+This is a portfolio project showcasing my skills and experiences as a developer. The project is a responsive website built with HTML, CSS, and JavaScript.
 
 ![image](https://user-images.githubusercontent.com/82702670/170855604-3b6dfdbd-8517-4528-bf09-1b4b3713a1b5.png)
 
